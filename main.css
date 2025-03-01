@@ -1,0 +1,16 @@
+.header{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.ul-li-c{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
